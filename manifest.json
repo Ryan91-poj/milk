@@ -2,6 +2,7 @@
   "name": "牛奶",
   "short_name": "牛奶",
   "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
